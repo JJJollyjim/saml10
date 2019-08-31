@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "saml10d14a",
+    "saml10d15a",
+    "saml10d16a",
+    "saml10e14a",
+    "saml10e15a",
+    "saml10e16a",
+]
