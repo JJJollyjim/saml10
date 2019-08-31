@@ -1,0 +1,27 @@
+479,485c479,480
+<                            <name>OPAMP</name>
+<                            <description>OPAMP output (on AC1)</description>
+<                            <value>7</value>
+<                         </enumeratedValue>
+<                         <enumeratedValue>
+<                            <name>DAC</name>
+<                            <description>DAC output (on AC0)</description>
+---
+>                            <name>DAC_OPAMP</name>
+>                            <description>DAC output on AC0, OPAMP output on AC1</description>
+5046c5041
+<                <description/>
+---
+>                <description>-</description>
+9938c9933
+<                <description/>
+---
+>                <description>-</description>
+13282c13277
+<                   <description/>
+---
+>                   <description>-</description>
+20161c20156
+<                <description/>
+---
+>                <description>-</description>
